@@ -1,0 +1,8 @@
+[package]
+name = "nethologlyph"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+sfml = "0.15"
+bytemuck = "1.7"
