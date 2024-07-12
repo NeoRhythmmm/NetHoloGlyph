@@ -19,5 +19,5 @@ NetHoloGlyph is a project that demonstrates interactive 3D audio visualization u
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/yourusername/NetHoloGlyph.git
+   git clone https://github.com/NeoRhythmmm/NetHoloGlyph.git
    cd NetHoloGlyph
